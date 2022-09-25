@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\CSharpSorting\SortCount\obj\Debug\net6.0\SortCount.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\CSharpSorting\SortCount\obj\Debug\net6.0\SortCount.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\CSharpSorting\SortCount\obj\Debug\net6.0\SortCount.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\CSharpSorting\SortCount\obj\Debug\net6.0\SortCount.AssemblyInfo.cs
+E:\Desktop\Software_Lang\CSharpSorting\SortCount\obj\Debug\net6.0\SortCount.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\CSharpSorting\SortCount\bin\Debug\net6.0\SortCount.exe
+E:\Desktop\Software_Lang\CSharpSorting\SortCount\bin\Debug\net6.0\SortCount.deps.json
+E:\Desktop\Software_Lang\CSharpSorting\SortCount\bin\Debug\net6.0\SortCount.runtimeconfig.json
+E:\Desktop\Software_Lang\CSharpSorting\SortCount\bin\Debug\net6.0\SortCount.dll
+E:\Desktop\Software_Lang\CSharpSorting\SortCount\bin\Debug\net6.0\SortCount.pdb
+E:\Desktop\Software_Lang\CSharpSorting\SortCount\obj\Debug\net6.0\SortCount.dll
+E:\Desktop\Software_Lang\CSharpSorting\SortCount\obj\Debug\net6.0\refint\SortCount.dll
+E:\Desktop\Software_Lang\CSharpSorting\SortCount\obj\Debug\net6.0\SortCount.pdb
+E:\Desktop\Software_Lang\CSharpSorting\SortCount\obj\Debug\net6.0\SortCount.genruntimeconfig.cache
+E:\Desktop\Software_Lang\CSharpSorting\SortCount\obj\Debug\net6.0\ref\SortCount.dll

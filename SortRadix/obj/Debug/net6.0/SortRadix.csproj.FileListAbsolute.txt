@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\CSharpSorting\SortRadix\bin\Debug\net6.0\SortRadix.exe
+E:\Desktop\Software_Lang\CSharpSorting\SortRadix\bin\Debug\net6.0\SortRadix.deps.json
+E:\Desktop\Software_Lang\CSharpSorting\SortRadix\bin\Debug\net6.0\SortRadix.runtimeconfig.json
+E:\Desktop\Software_Lang\CSharpSorting\SortRadix\bin\Debug\net6.0\SortRadix.dll
+E:\Desktop\Software_Lang\CSharpSorting\SortRadix\bin\Debug\net6.0\SortRadix.pdb
+E:\Desktop\Software_Lang\CSharpSorting\SortRadix\obj\Debug\net6.0\SortRadix.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\CSharpSorting\SortRadix\obj\Debug\net6.0\SortRadix.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\CSharpSorting\SortRadix\obj\Debug\net6.0\SortRadix.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\CSharpSorting\SortRadix\obj\Debug\net6.0\SortRadix.AssemblyInfo.cs
+E:\Desktop\Software_Lang\CSharpSorting\SortRadix\obj\Debug\net6.0\SortRadix.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\CSharpSorting\SortRadix\obj\Debug\net6.0\SortRadix.dll
+E:\Desktop\Software_Lang\CSharpSorting\SortRadix\obj\Debug\net6.0\refint\SortRadix.dll
+E:\Desktop\Software_Lang\CSharpSorting\SortRadix\obj\Debug\net6.0\SortRadix.pdb
+E:\Desktop\Software_Lang\CSharpSorting\SortRadix\obj\Debug\net6.0\SortRadix.genruntimeconfig.cache
+E:\Desktop\Software_Lang\CSharpSorting\SortRadix\obj\Debug\net6.0\ref\SortRadix.dll

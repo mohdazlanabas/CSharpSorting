@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\AlgoSorting\SortMerge\obj\Debug\net6.0\SortMerge.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\AlgoSorting\SortMerge\obj\Debug\net6.0\SortMerge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\AlgoSorting\SortMerge\obj\Debug\net6.0\SortMerge.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\AlgoSorting\SortMerge\obj\Debug\net6.0\SortMerge.AssemblyInfo.cs
+E:\Desktop\Software_Lang\AlgoSorting\SortMerge\obj\Debug\net6.0\SortMerge.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\AlgoSorting\SortMerge\bin\Debug\net6.0\SortMerge.exe
+E:\Desktop\Software_Lang\AlgoSorting\SortMerge\bin\Debug\net6.0\SortMerge.deps.json
+E:\Desktop\Software_Lang\AlgoSorting\SortMerge\bin\Debug\net6.0\SortMerge.runtimeconfig.json
+E:\Desktop\Software_Lang\AlgoSorting\SortMerge\bin\Debug\net6.0\SortMerge.dll
+E:\Desktop\Software_Lang\AlgoSorting\SortMerge\bin\Debug\net6.0\SortMerge.pdb
+E:\Desktop\Software_Lang\AlgoSorting\SortMerge\obj\Debug\net6.0\SortMerge.dll
+E:\Desktop\Software_Lang\AlgoSorting\SortMerge\obj\Debug\net6.0\refint\SortMerge.dll
+E:\Desktop\Software_Lang\AlgoSorting\SortMerge\obj\Debug\net6.0\SortMerge.pdb
+E:\Desktop\Software_Lang\AlgoSorting\SortMerge\obj\Debug\net6.0\SortMerge.genruntimeconfig.cache
+E:\Desktop\Software_Lang\AlgoSorting\SortMerge\obj\Debug\net6.0\ref\SortMerge.dll

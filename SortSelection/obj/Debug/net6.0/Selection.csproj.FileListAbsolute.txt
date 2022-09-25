@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\AdvanceCSharp2\Quicksort\bin\Debug\net6.0\Selection.exe
+E:\Desktop\Software_Lang\AdvanceCSharp2\Quicksort\bin\Debug\net6.0\Selection.deps.json
+E:\Desktop\Software_Lang\AdvanceCSharp2\Quicksort\bin\Debug\net6.0\Selection.runtimeconfig.json
+E:\Desktop\Software_Lang\AdvanceCSharp2\Quicksort\bin\Debug\net6.0\Selection.dll
+E:\Desktop\Software_Lang\AdvanceCSharp2\Quicksort\bin\Debug\net6.0\Selection.pdb
+E:\Desktop\Software_Lang\AdvanceCSharp2\Quicksort\obj\Debug\net6.0\Selection.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\AdvanceCSharp2\Quicksort\obj\Debug\net6.0\Selection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\AdvanceCSharp2\Quicksort\obj\Debug\net6.0\Selection.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\AdvanceCSharp2\Quicksort\obj\Debug\net6.0\Selection.AssemblyInfo.cs
+E:\Desktop\Software_Lang\AdvanceCSharp2\Quicksort\obj\Debug\net6.0\Selection.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\AdvanceCSharp2\Quicksort\obj\Debug\net6.0\Selection.dll
+E:\Desktop\Software_Lang\AdvanceCSharp2\Quicksort\obj\Debug\net6.0\refint\Selection.dll
+E:\Desktop\Software_Lang\AdvanceCSharp2\Quicksort\obj\Debug\net6.0\Selection.pdb
+E:\Desktop\Software_Lang\AdvanceCSharp2\Quicksort\obj\Debug\net6.0\Selection.genruntimeconfig.cache
+E:\Desktop\Software_Lang\AdvanceCSharp2\Quicksort\obj\Debug\net6.0\ref\Selection.dll

@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\CSharpSorting\SortShell\bin\Debug\net6.0\SortShell.exe
+E:\Desktop\Software_Lang\CSharpSorting\SortShell\bin\Debug\net6.0\SortShell.deps.json
+E:\Desktop\Software_Lang\CSharpSorting\SortShell\bin\Debug\net6.0\SortShell.runtimeconfig.json
+E:\Desktop\Software_Lang\CSharpSorting\SortShell\bin\Debug\net6.0\SortShell.dll
+E:\Desktop\Software_Lang\CSharpSorting\SortShell\bin\Debug\net6.0\SortShell.pdb
+E:\Desktop\Software_Lang\CSharpSorting\SortShell\obj\Debug\net6.0\SortShell.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\CSharpSorting\SortShell\obj\Debug\net6.0\SortShell.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\CSharpSorting\SortShell\obj\Debug\net6.0\SortShell.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\CSharpSorting\SortShell\obj\Debug\net6.0\SortShell.AssemblyInfo.cs
+E:\Desktop\Software_Lang\CSharpSorting\SortShell\obj\Debug\net6.0\SortShell.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\CSharpSorting\SortShell\obj\Debug\net6.0\SortShell.dll
+E:\Desktop\Software_Lang\CSharpSorting\SortShell\obj\Debug\net6.0\refint\SortShell.dll
+E:\Desktop\Software_Lang\CSharpSorting\SortShell\obj\Debug\net6.0\SortShell.pdb
+E:\Desktop\Software_Lang\CSharpSorting\SortShell\obj\Debug\net6.0\SortShell.genruntimeconfig.cache
+E:\Desktop\Software_Lang\CSharpSorting\SortShell\obj\Debug\net6.0\ref\SortShell.dll

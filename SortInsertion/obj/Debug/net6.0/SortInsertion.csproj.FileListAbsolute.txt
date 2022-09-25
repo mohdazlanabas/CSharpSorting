@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\AdvanceCSharp2\SortInsertion\obj\Debug\net6.0\SortInsertion.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\AdvanceCSharp2\SortInsertion\obj\Debug\net6.0\SortInsertion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\AdvanceCSharp2\SortInsertion\obj\Debug\net6.0\SortInsertion.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\AdvanceCSharp2\SortInsertion\obj\Debug\net6.0\SortInsertion.AssemblyInfo.cs
+E:\Desktop\Software_Lang\AdvanceCSharp2\SortInsertion\obj\Debug\net6.0\SortInsertion.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\AdvanceCSharp2\SortInsertion\bin\Debug\net6.0\SortInsertion.exe
+E:\Desktop\Software_Lang\AdvanceCSharp2\SortInsertion\bin\Debug\net6.0\SortInsertion.deps.json
+E:\Desktop\Software_Lang\AdvanceCSharp2\SortInsertion\bin\Debug\net6.0\SortInsertion.runtimeconfig.json
+E:\Desktop\Software_Lang\AdvanceCSharp2\SortInsertion\bin\Debug\net6.0\SortInsertion.dll
+E:\Desktop\Software_Lang\AdvanceCSharp2\SortInsertion\bin\Debug\net6.0\SortInsertion.pdb
+E:\Desktop\Software_Lang\AdvanceCSharp2\SortInsertion\obj\Debug\net6.0\SortInsertion.dll
+E:\Desktop\Software_Lang\AdvanceCSharp2\SortInsertion\obj\Debug\net6.0\refint\SortInsertion.dll
+E:\Desktop\Software_Lang\AdvanceCSharp2\SortInsertion\obj\Debug\net6.0\SortInsertion.pdb
+E:\Desktop\Software_Lang\AdvanceCSharp2\SortInsertion\obj\Debug\net6.0\SortInsertion.genruntimeconfig.cache
+E:\Desktop\Software_Lang\AdvanceCSharp2\SortInsertion\obj\Debug\net6.0\ref\SortInsertion.dll

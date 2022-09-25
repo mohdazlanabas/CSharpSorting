@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\CSharpSorting\SortBucket\bin\Debug\net6.0\SortBucket.exe
+E:\Desktop\Software_Lang\CSharpSorting\SortBucket\bin\Debug\net6.0\SortBucket.deps.json
+E:\Desktop\Software_Lang\CSharpSorting\SortBucket\bin\Debug\net6.0\SortBucket.runtimeconfig.json
+E:\Desktop\Software_Lang\CSharpSorting\SortBucket\bin\Debug\net6.0\SortBucket.dll
+E:\Desktop\Software_Lang\CSharpSorting\SortBucket\bin\Debug\net6.0\SortBucket.pdb
+E:\Desktop\Software_Lang\CSharpSorting\SortBucket\obj\Debug\net6.0\SortBucket.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\CSharpSorting\SortBucket\obj\Debug\net6.0\SortBucket.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\CSharpSorting\SortBucket\obj\Debug\net6.0\SortBucket.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\CSharpSorting\SortBucket\obj\Debug\net6.0\SortBucket.AssemblyInfo.cs
+E:\Desktop\Software_Lang\CSharpSorting\SortBucket\obj\Debug\net6.0\SortBucket.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\CSharpSorting\SortBucket\obj\Debug\net6.0\SortBucket.dll
+E:\Desktop\Software_Lang\CSharpSorting\SortBucket\obj\Debug\net6.0\refint\SortBucket.dll
+E:\Desktop\Software_Lang\CSharpSorting\SortBucket\obj\Debug\net6.0\SortBucket.pdb
+E:\Desktop\Software_Lang\CSharpSorting\SortBucket\obj\Debug\net6.0\SortBucket.genruntimeconfig.cache
+E:\Desktop\Software_Lang\CSharpSorting\SortBucket\obj\Debug\net6.0\ref\SortBucket.dll

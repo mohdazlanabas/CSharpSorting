@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\AlgoSorting\SortHeap\bin\Debug\net6.0\SortHeap.exe
+E:\Desktop\Software_Lang\AlgoSorting\SortHeap\bin\Debug\net6.0\SortHeap.deps.json
+E:\Desktop\Software_Lang\AlgoSorting\SortHeap\bin\Debug\net6.0\SortHeap.runtimeconfig.json
+E:\Desktop\Software_Lang\AlgoSorting\SortHeap\bin\Debug\net6.0\SortHeap.dll
+E:\Desktop\Software_Lang\AlgoSorting\SortHeap\bin\Debug\net6.0\SortHeap.pdb
+E:\Desktop\Software_Lang\AlgoSorting\SortHeap\obj\Debug\net6.0\SortHeap.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\AlgoSorting\SortHeap\obj\Debug\net6.0\SortHeap.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\AlgoSorting\SortHeap\obj\Debug\net6.0\SortHeap.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\AlgoSorting\SortHeap\obj\Debug\net6.0\SortHeap.AssemblyInfo.cs
+E:\Desktop\Software_Lang\AlgoSorting\SortHeap\obj\Debug\net6.0\SortHeap.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\AlgoSorting\SortHeap\obj\Debug\net6.0\SortHeap.dll
+E:\Desktop\Software_Lang\AlgoSorting\SortHeap\obj\Debug\net6.0\refint\SortHeap.dll
+E:\Desktop\Software_Lang\AlgoSorting\SortHeap\obj\Debug\net6.0\SortHeap.pdb
+E:\Desktop\Software_Lang\AlgoSorting\SortHeap\obj\Debug\net6.0\SortHeap.genruntimeconfig.cache
+E:\Desktop\Software_Lang\AlgoSorting\SortHeap\obj\Debug\net6.0\ref\SortHeap.dll

@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\AdvanceCSharp2\sort01\bin\Debug\net6.0\Sort01.exe
+E:\Desktop\Software_Lang\AdvanceCSharp2\sort01\bin\Debug\net6.0\Sort01.deps.json
+E:\Desktop\Software_Lang\AdvanceCSharp2\sort01\bin\Debug\net6.0\Sort01.runtimeconfig.json
+E:\Desktop\Software_Lang\AdvanceCSharp2\sort01\bin\Debug\net6.0\Sort01.dll
+E:\Desktop\Software_Lang\AdvanceCSharp2\sort01\bin\Debug\net6.0\Sort01.pdb
+E:\Desktop\Software_Lang\AdvanceCSharp2\sort01\obj\Debug\net6.0\Sort01.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\AdvanceCSharp2\sort01\obj\Debug\net6.0\Sort01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\AdvanceCSharp2\sort01\obj\Debug\net6.0\Sort01.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\AdvanceCSharp2\sort01\obj\Debug\net6.0\Sort01.AssemblyInfo.cs
+E:\Desktop\Software_Lang\AdvanceCSharp2\sort01\obj\Debug\net6.0\Sort01.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\AdvanceCSharp2\sort01\obj\Debug\net6.0\Sort01.dll
+E:\Desktop\Software_Lang\AdvanceCSharp2\sort01\obj\Debug\net6.0\refint\Sort01.dll
+E:\Desktop\Software_Lang\AdvanceCSharp2\sort01\obj\Debug\net6.0\Sort01.pdb
+E:\Desktop\Software_Lang\AdvanceCSharp2\sort01\obj\Debug\net6.0\Sort01.genruntimeconfig.cache
+E:\Desktop\Software_Lang\AdvanceCSharp2\sort01\obj\Debug\net6.0\ref\Sort01.dll
